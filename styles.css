@@ -47,7 +47,7 @@ ul {
 .sign-up {
     background-color: #3882f6;
     color: #f9faf8;
-    border-radius: 10px;
+    border-radius: 5px;
     width: 100px;
     height: 30px;
     border: none;
@@ -89,4 +89,49 @@ img {
 }
 .Experience-content {
     width: 800px;
+}
+.final-section {
+    padding: 60px;
+    display: flex;
+    justify-content: center;
+}
+.blue-txt {
+    width: 1000px;
+}
+.blue {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 5px;
+    background-color: #3882f6;
+    border-radius: 5px;
+    width: 700px;
+    padding-left: 80px;
+}
+.cta-button {
+    border: 1px solid;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    border-color: #e5e7eb;
+    border-radius: 5px;
+    width: 100px;
+    padding: 5px;
+}
+.cta {
+    color: #f9faf8;
+}
+.cta-body {
+    color: #e5e7eb;
+}
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+body {
+    border: 0px;
+    padding: 0px;
+    height: 100vh;
 }
